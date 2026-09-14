@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="GITHUB%20Banner.png" alt="Jibran Umar - Software Engineer" width="100%">
+</p>
+
 # Hi, I'm Jibran Umar 👋
 
 ### Full-Stack Developer | Laravel • React • PHP • MySQL • E-commerce • AI Integration
